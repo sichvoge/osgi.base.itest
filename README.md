@@ -1,0 +1,1 @@
+An abstract base class for doing OSGi integration tests. Since it uses Bnd(tools) as underlying development tooling its just uses JUnit 3.8. In the time when Bnd(tools) will improve it, I will improve this test base as well.
