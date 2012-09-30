@@ -1,0 +1,18 @@
+# Eclipse workspace 
+/.metadata
+
+# Eclipse compiler output
+/*/bin
+/*/bin_test
+/*/generated
+
+# vi detritus
+*.swp
+*~
+
+# Mac OS detritus
+.DS_Store
+
+# Bnd stuff
+/cnf/cache
+/cnf/repo/.obrcache
